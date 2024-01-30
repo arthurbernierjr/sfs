@@ -1,0 +1,75 @@
+/*
+
+## Style Hints:
+
+Body Font Size = 12px
+	 Line Height = 17px
+	 Font Family = "Times New Roman", serif
+	 Font Color = #656565
+
+Link Hover Color = #20222a
+
+*/
+
+#headline {
+  padding: 2em 6em 1em 6em;
+}
+
+#top_image, #bottom_image {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 0.4em;
+}
+
+#top_image > img, #bottom_image > img {
+  width: 90%;
+}
+
+#text_content, #footer {
+  margin-left: 8em;
+  max-width: 90%;
+  font-size: 12px;
+  line-height: 17px;
+  font-family: "Times New Roman", serif;
+  color: #656565;
+}
+
+#date > a {
+  text-decoration: none;
+}
+
+#bottom_links {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#links_list {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  width: 90%;
+}
+
+#links_list > li {
+  padding-right: 0.6em;
+  width: 25%;
+}
+
+#links_list > li > img {
+  border: 3px solid #c7c9c9;
+  width: 100%;
+}
+
+#footer {
+  padding-bottom: 1em;
+}
+
+@media only screen and (max-width: 1000px)  {
+  #headline {
+    text-align: center;
+  }
+  #text_content, #footer {
+    margin-left: 2em;
+  }
+}

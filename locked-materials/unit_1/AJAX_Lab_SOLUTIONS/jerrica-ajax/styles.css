@@ -1,0 +1,82 @@
+/* =============== */
+/*   VARIABLES     */
+/* =============== */
+:root {
+  --yellow: #DA9F31;
+  --red: #A92124;
+  --blue: #041279;
+}
+/* =============== */
+/*    GENERAL      */
+/* =============== */
+body {
+  background: whitesmoke;
+  font-family: calibri;
+}
+h1 {
+  text-align: center;
+}
+/* =============== */
+/*    OPTIONS     */
+/* =============== */
+.borough-options, .output {
+  margin: 0 auto;
+}
+.borough-options {
+  width: 90%;
+  text-align: center;
+}
+.borough-options input {
+  border: 1px solid #eee;
+  padding: 10px;
+  border-radius: 5px;
+}
+.borough-options input:focus {
+  border: 1px solid var(--yellow);
+  outline: 0;
+}
+.borough-options button {
+  background: var(--blue);
+  padding: 10px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  color: whitesmoke;
+  font-weight: 700;
+  border: 0px;
+}
+.borough-options button:hover {
+  background: var(--yellow);
+  cursor: pointer;
+}
+/* =============== */
+/*    OUTPUT      */
+/* =============== */
+.output {
+  width: 70%;
+}
+.police-response {
+  display: none;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  margin-bottom: 3px;  
+}
+li:before {
+  content: '🚨 ';
+}
+li button {
+  float: right;
+  background: var(--red);
+  padding: 5px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  color: whitesmoke;
+  font-weight: 700;
+  border: 0px;
+}
+li button:hover {
+  cursor: pointer;
+  background: var(--yellow);
+}

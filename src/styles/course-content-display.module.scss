@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    max-width: 55rem;
+  @media (max-width: 768px){
+    max-width: 150vw;
+  }
+}
+.main h1 {
+    text-align: left;
+}

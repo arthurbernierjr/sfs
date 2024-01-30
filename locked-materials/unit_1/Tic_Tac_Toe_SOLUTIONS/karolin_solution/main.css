@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline&display=swap');
+
+/* * {
+  border: 1px solid gold;
+} */
+:root {
+  --c : rgba(255,255,255,0.7);
+  --t : transparent;
+}
+
+body {
+  margin: 0;
+  font-family: 'Fascinate Inline', cursive;
+  text-align: center;
+}
+
+.wrapper {
+  display: flex;
+}
+.container {
+  width: 90vw;
+  height: 50vh;
+  margin: auto;
+}
+
+h1 {
+  font-size:8vw;
+  /* background image from: https://codepen.io/praveenpuglia/pen/MyNpXQ */
+  background-image:
+repeating-linear-gradient(45deg, var(--c) 0, var(--c) 20px, var(--t) 20px, var(--t) 32px, var(--c) 32px, var(--c) 44px, var(--t) 44px, var(--t) 56px, var(--c) 56px, var(--c) 68px, var(--t) 68px, var(--t) 80px, var(--c) 0),
+repeating-linear-gradient(-45deg, var(--c) 0, var(--c) 20px, var(--t) 20px, var(--t) 32px, var(--c) 32px, var(--c) 44px, var(--t) 44px, var(--t) 56px, var(--c) 56px, var(--c) 68px, var(--t) 68px, var(--t) 80px, var(--c) 0),
+linear-gradient(to bottom right, #FC354C, #0ABFBC);
+  padding: .5em 0 .5em 0;
+  margin: 0 0 .2em 0;
+}
+
+h3 {
+  font-size: 8vw;
+  margin: 0;
+}
+
+.board {
+  margin-top: 1em;
+  width: 30vw;
+  height: 30vw;
+  display:flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+.square, .playedSquare {
+  border: 2px solid gray;
+  width: 10vw;
+  height: 10vw;
+  box-sizing: border-box;
+  background: ghostwhite;
+}
+
+.square:hover {
+  /* background image from: https://codepen.io/praveenpuglia/pen/MyNpXQ */
+	background-image:
+  repeating-linear-gradient(45deg, var(--t) 0, var(--t) 32px, var(--c) 32px, var(--c) 44px, var(--t) 44px, var(--t) 56px, var(--c) 56px, var(--c) 68px, var(--t) 0),
+  repeating-linear-gradient(-45deg, var(--t) 0, var(--t) 32px, var(--c) 32px, var(--c) 44px, var(--t) 44px, var(--t) 56px, var(--c) 56px, var(--c) 68px, var(--t) 0),
+  linear-gradient(to bottom left, #FC354C, #0ABFBC);
+}
+
+.playedSquare {
+  background: white;
+}
+
+button {
+  padding: 4em;
+  margin: 2em;
+  border-radius: 100%;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px white;
+  border: 1px solid #0ABFBC;
+  color: #FC354C;
+  font-size: .75em;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:hover {
+  border: 1px solid #FC354C;
+  color: #0ABFBC;
+}
+
+.again, .container {
+  display: flex;
+  align-items: center;
+}
