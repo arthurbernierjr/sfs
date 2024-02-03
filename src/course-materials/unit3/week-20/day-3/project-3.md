@@ -4,7 +4,7 @@ title: "Week 20 - Day 3"
 week: 20
 day: 3
 type: "homework"
-topics: "Unit 3 Individual Project (MERN CAFE) Presentation Tuesday 3/5/2024"
+topics: "Unit 3 Individual Project (MERN/SEI CAFE) Presentation Tuesday 3/5/2024"
 ---
 
 # Application Technical Requirements/Deliverables
