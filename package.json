@@ -17,7 +17,7 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
     "push": "git add -A  && git reg && git push origin main",
-    "release": "npm run push && ssh root@donna-frances.sfs-flex.com \"cd classes/liberty && git pull && npm run build\""
+    "release": "npm run push && ssh root@liberty.sfs-flex.com \"cd classes/liberty && git pull && npm run build\""
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
