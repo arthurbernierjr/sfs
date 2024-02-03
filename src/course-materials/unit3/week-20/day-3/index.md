@@ -17,6 +17,6 @@ topics: "Kickoff Unit 3"
 - [Major HW - 1 Bookmarks App 2/19](/unit3/week-20/day-3/hw-1)
 - [Major HW - 2 Bookmarks Secure App 2/26](/unit3/week-20/day-3/hw-2)
 - [Project 3 - SEI CAFE Due 3/5](/unit3/week-20/day-3/project-3)
-- [Project 4 Group/Final  Backend Due 3/9, Frontend & Presentation Due 3/27](/unit3/week-20/day-3/project-4)
+- [Project 4 Group/Final  Backend Due 3/12, Frontend & Presentation Due 3/27](/unit3/week-20/day-3/project-4)
 - [Capstone Project Plan Due by 3/16, to be completed and added to portfolio post course](/unit3/week-20/day-3/capstone)
 
