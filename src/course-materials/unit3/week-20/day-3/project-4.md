@@ -1,10 +1,10 @@
 ---
-track: "Unit 4"
-title: "Week 23 - Day 2"
-week: 23
-day: 2
-type: "homepage"
-topics: "Group Final Project - Presentation 3/27/2024 "
+track: "HW"
+title: "Group Final Project"
+week: 24
+day: 3
+type: "homework"
+topics: "Presentation 3/27/2024 "
 ---
 
 

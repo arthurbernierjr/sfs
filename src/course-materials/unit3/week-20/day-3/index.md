@@ -14,7 +14,7 @@ topics: "Kickoff Unit 3"
 | 12:00pm - until done | Discuss Deliverables |
 
 - [Assesment Due 2/10](/unit3/week-20/day-3/assesment)
-- [Major HW - 1 Bookmarks App 2/19](/unit3/week-20/day-3/hw-1)
+- [Major HW - 1 Bookmarks App 2/19](/unit3/week-20/day-3/hw1)
 - [Major HW - 2 Bookmarks Secure App 2/26](/unit3/week-20/day-3/hw-2)
 - [Project 3 - SEI CAFE Due 3/5](/unit3/week-20/day-3/project-3)
 - [Project 4 Group/Final  Backend Due 3/12, Frontend & Presentation Due 3/27](/unit3/week-20/day-3/project-4)

@@ -1,10 +1,10 @@
 ---
-track: "Unit 3"
-title: "Week 20 - Day 3"
-week: 20
+track: "HW"
+title: "Unit 3 Individual Project (MERN/SEI CAFE)"
+week: 23
 day: 3
 type: "homework"
-topics: "Unit 3 Individual Project (MERN/SEI CAFE) Presentation Tuesday 3/5/2024"
+topics: "Presentation Tuesday 3/5/2024"
 ---
 
 # Application Technical Requirements/Deliverables

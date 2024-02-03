@@ -1,6 +1,6 @@
 ---
 track: "HW"
-title: "Javascript Assesment"
+title: "Bookmarks MERN Project"
 week: 21
 day: 3
 type: "homework"

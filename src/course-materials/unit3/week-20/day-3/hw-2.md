@@ -1,6 +1,6 @@
 ---
 track: "HW"
-title: "Full Stack MERN Project with JWT Authentication"
+title: "Secure Bookmarks MERN Project with JWT Authentication"
 week: 22
 day: 3
 type: "homework"

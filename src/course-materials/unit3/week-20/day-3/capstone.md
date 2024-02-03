@@ -1,10 +1,10 @@
 ---
-track: "Unit 4"
-title: "Week 25 - Day 2"
+track: "HW"
+title: "Capstone"
 week: 25
-day: 2
+day: 3
 type: "homework"
-topics: "Capstone Kickoff"
+topics: "Due 3/27"
 ---
 
 # Capstone
