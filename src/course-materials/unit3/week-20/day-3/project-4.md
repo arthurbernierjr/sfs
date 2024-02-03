@@ -4,7 +4,7 @@ title: "Week 23 - Day 2"
 week: 23
 day: 2
 type: "homepage"
-topics: "Group Project Explanation, SCRUM TEAMS Explained, and GIT revisited"
+topics: "Group Final Project - Presentation 3/27/2024 "
 ---
 
 
