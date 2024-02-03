@@ -540,7 +540,7 @@ i.e.
 ```js
 sort([1,7,5,4]) // should return
 // [1,4,5,7]
-// for bot quickSort and mergeSort
+// for both quickSort and mergeSort
 ```
 
 After completing each question, make sure to commit your changes to your local git repository with the specified commit message. This practice helps in tracking your progress and maintaining a clean version history of your work.
