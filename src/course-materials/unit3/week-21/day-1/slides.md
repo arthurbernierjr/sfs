@@ -7,8 +7,9 @@ type: "homework"
 topics: "Big O, Divide and Conquer, and React Fundamentals"
 ---
 
-### Lesson: Why Software Engineers Make So Much Money
+# Lesson: Why Software Engineers Make So Much Money
 
+### By the End on this Lesson Students Will Be Able To:
 1. **Understand the Value of Software Engineers**: SWBAT explain why software engineers, particularly those skilled in modern technologies like React, are highly compensated due to their ability to create efficient, scalable, and dynamic user interfaces that save companies time and money.
 
 2. **Grasp Big O Notation**: SWBAT describe Big O Notation and its importance in evaluating the efficiency of algorithms in terms of time and space, which is crucial for writing scalable and efficient code.
