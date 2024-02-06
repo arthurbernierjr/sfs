@@ -13,6 +13,7 @@ topics: "Big O, Divide and Conquer, and React Fundamentals"
 ![Why Software Engineers Make So Much Money](/img/somuchmoney.png)
 
 </center>
+
 ### By the End on this Lesson Students Will Be Able To:
 1. **Understand the Value of Software Engineers**: SWBAT explain why software engineers, particularly those skilled in modern technologies like React, are highly compensated due to their ability to create efficient, scalable, and dynamic user interfaces that save companies time and money.
 
