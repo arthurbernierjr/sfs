@@ -8,7 +8,11 @@ topics: "Big O, Divide and Conquer, and React Fundamentals"
 ---
 
 # Lesson: Why Software Engineers Make So Much Money
+<center>
 
+![Why Software Engineers Make So Much Money](/img/somuchmoney.png)
+
+</center>
 ### By the End on this Lesson Students Will Be Able To:
 1. **Understand the Value of Software Engineers**: SWBAT explain why software engineers, particularly those skilled in modern technologies like React, are highly compensated due to their ability to create efficient, scalable, and dynamic user interfaces that save companies time and money.
 
@@ -208,6 +212,11 @@ Incorporating the provided content into the lesson "Why Software Engineers Make 
 
 ---
 
+For the heading of your lesson on modern web development with React and the Virtual DOM concept, here's a generated picture that encapsulates the theme of efficient UI updates:
+
+
+
+
 ### Lesson: Why Software Engineers Make So Much Money - React's Impact on UI Development
 
 ### By the end of this portion of the lesson students will be able to:
@@ -225,9 +234,14 @@ Incorporating the provided content into the lesson "Why Software Engineers Make 
 
 Software engineers command impressive salaries, particularly those skilled in modern web development frameworks like React. This lesson explores React's role in UI development, emphasizing component-driven development and the virtual DOM, to illustrate why understanding these concepts is financially rewarding.
 
+<center>
+
 ![React and UI Development](https://i.imgflip.com/739uao.jpg)
 
 ![Component Driven Development](https://i.imgur.com/m01TbLF.png)
+
+</center>
+
 
 ## Separation of Concerns in Web Development
 
