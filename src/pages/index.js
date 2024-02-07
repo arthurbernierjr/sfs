@@ -51,7 +51,7 @@ export default function Mod1 ({ data, location }) {
           centerContent={true}
           location={location}
           crumbLabel={"All Lessons"}>
-            <h1>All Lessons</h1>
+            <h1>Look at this OMAR Its All The Lessons</h1>
             <center>
               <div>
                 <a href="https://docs.google.com/spreadsheets/d/1QaqwE3QXHiRQJmYGWH3NfJee6RDvNTFjCnzcC3JXOwM/edit?pli=1#gid=874083252">
