@@ -18,7 +18,7 @@ topics: "Algorithmic Thinking with Sorting"
 
 
 - [Testing Slides](/unit3/week-21/day-2/slides)
--  If the above link does not take you to the correct module, you can find the lesson in your myGA dashboard.
+-  `If the below links does not take you to the correct module, you can find the lesson in your myGA dashboard.`
 - [myGA module: Intro to Sorting Algorithms](https://my.generalassemb.ly/activities/818)
 - [myGA module: Basic Sorting Algorithms](https://my.generalassemb.ly/activities/778)
 - [myGA module: Divide-and-Conquer Sorting Algorithms](https://my.generalassemb.ly/activities/882)
