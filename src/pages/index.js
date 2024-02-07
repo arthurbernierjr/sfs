@@ -47,7 +47,7 @@ export default function Mod1 ({ data, location }) {
 
     return (
         <Layout
-          pageTitle="All Lessons"
+          pageTitle="Look at this OMAR Its All The Lessons"
           centerContent={true}
           location={location}
           crumbLabel={"All Lessons"}>
