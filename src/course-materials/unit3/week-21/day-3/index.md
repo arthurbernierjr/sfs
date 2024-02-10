@@ -23,6 +23,7 @@ topics: "The MERN Stack"
 ![](https://i.redd.it/ygd28n17lp751.png)
 
 - No Markdown All Notes Should Be Taken in Your Todolist cheatsheet
+- [Getting Started Guide](https://www.npmjs.com/package/big-poppa-code-react-starter)
 
 ## Deployment
 
