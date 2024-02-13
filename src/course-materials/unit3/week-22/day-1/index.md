@@ -17,4 +17,5 @@ topics: "React Router"
 | 9:00 - 10:45 pm | Lab |
 | 10:45pm | Exit Tickets |
 
-- [React Slides](/unit3/week-22/day-1/slides)
+- [React Prices Lesson](/unit3/week-22/day-1/slides)
+- [React Prices Lab](/unit3/week-22/day-1/lab)

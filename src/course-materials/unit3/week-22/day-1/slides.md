@@ -360,9 +360,13 @@ export default function Price (props) {
 
   //function to fetch coin data
   const getCoin = async () => {
-    const response = await fetch(url);
-    const data = await response.json();
-    setCoin(data);
+    try{
+        const response = await fetch(url);
+        const data = await response.json();
+        setCoin(data);
+    }catch(error){
+        console.error(error)
+    }   
   };
 
   // useEffect to run getCoin when component mounts
