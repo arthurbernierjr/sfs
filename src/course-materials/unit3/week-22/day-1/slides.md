@@ -33,7 +33,7 @@ import { createRoot } from "react-dom/client"
 import App from './App'
 import {BrowserRouter as Router} from "react-router-dom"
 const root = createRoot(document.getElementById("app"))
-root.render(<StrictMode><App/></StrictMode>)
+root.render(<StrictMode><Router><App/></Router></StrictMode>)
 ```
 
 ## Components vs Pages
@@ -356,7 +356,7 @@ export default function Price (props) {
   const url = `http://rest-sandbox.coinapi.io/v1/exchangerate/${symbol}/USD?apikey=${apiKey}`;
 
   //state to hold the coin data
-  const [coin, setCoin] = useState("null");
+  const [coin, setCoin] = useState(null);
 
   //function to fetch coin data
   const getCoin = async () => {

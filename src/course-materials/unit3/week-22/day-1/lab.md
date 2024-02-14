@@ -1,6 +1,6 @@
 # React Router
 
-Spin a new react up using create-react-app
+Spin a new react up using lets-code
 
 Look over the working [Solution](https://vhixt.csb.app/)
 
