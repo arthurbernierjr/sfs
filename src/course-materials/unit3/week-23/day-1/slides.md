@@ -184,10 +184,10 @@ const handleUpdate = async e => {
 
 ## Part 4: Deploying To Digital Ocean - Live with Instructor
 
-**Learn:** The final step of our development process is deployment, where we make our application accessible to users by hosting it on a server. We'll use Heroku for this, a platform known for its streamlined deployment process.
+**Learn:** The final step of our development process is deployment, where we make our application accessible to users by hosting it on a server. We'll use Digital Ocean for this, a platform known for its streamlined deployment process.
 
-**Apply:** We'll initiate the process by creating a new app on Heroku and linking it to our code repository. Then, we'll follow Heroku's deployment process to make our application live.
+**Apply:** We'll initiate the process by creating a new A record on Digital Ocean DNS, clone the repo to the DO droplet, using pm2 to start the app,then setting up NGINX to point to the port where it's running, and then setup https with certbot
 
-**Develop:** Now, let's work together to deploy your application. We'll guide you through setting up your Heroku app, linking it with your code, and deploying the application.
+**Develop:** Now, let's work together to deploy your application. We'll guide you through setting up your app.
 
 **Practice:** Once the app is deployed, it's time for a thorough test. Check every component, verify all pages display correctly, and that your application runs smoothly. Congratulations on successfully building and deploying a MERN stack application!
