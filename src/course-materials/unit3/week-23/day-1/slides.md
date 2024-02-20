@@ -1,8 +1,8 @@
 ---
 track: "Unit 3"
 title: "Mern Stack"
-week: 19
-day: 2
+week: 23
+day: 1
 type: "lecture"
 topics: "Mern Stack"
 ---
@@ -21,11 +21,11 @@ topics: "Mern Stack"
 1. cd into software_classwork/unit_3
 1. run `lets-code` and follow prompts
 1. use what you already know to setup your .env with your MONGO_URI and SECRET
-1. create model for blogs and user in a one to many relationship
+1. create model for blogs and user in a one to many relationship (User has many blogs)
 1. create router for blogs and user
 1. create controller for blogs and user
 1. update `app-server.js` for your app object
-1. update your `server.js` to require your app-server.js and set up mongoose
+1. update your `server.js` to require your app-server.js and database
 1. do not delete your catch all route for your public/index.html or your static public code.
 1. Build the components on the frontend
 1. Then do the same work for Comments and make the Comments children of Blog, comments should be an array on the Blog model and it should be in a One To Many relationship
@@ -35,6 +35,7 @@ topics: "Mern Stack"
 
 ![](https://www.dropbox.com/s/lpk32aya3fv6a86/Screen%20Shot%202021-02-05%20at%208.19.57%20PM.png?dl=1)
 
+`name` is the name of the person leaving a comment
 
 ## Part 1: The Backend - Breakout Rooms(no instructor help will be provided, you and your group should be able to do this with NO ASSISTANCE, and solve your own bugs)
 
@@ -43,6 +44,12 @@ topics: "Mern Stack"
 **Apply:** Start by following the 'Getting Started' instructions to set up the backend. Your first task is to create a Mongoose Schema and a Mongoose Model, which will serve as the blueprint for your blog application's data.
 
 **Develop:** Now, you will develop a Blog Controller using your Model. This controller should contain five REST API routes: Create, Index, Show, Delete, and Update.
+
+- `GET /api/blogs`: Get all blogs items.
+- `POST /api/blogs`: Create a new blog item.
+- `GET /api/blogs/:id`: Get a specific blog item.
+- `PUT /api/blogs/:id`: Update a specific blog item if the user is who made the blog.
+- `DELETE /api/blogs/:id`: Delete a specific blog item if the user is who made the blog.
 
 **Practice:** Test all your routes to ensure they're functioning as they should. Remember, errors in the backend can lead to significant issues in your web application's overall functionality.
 
