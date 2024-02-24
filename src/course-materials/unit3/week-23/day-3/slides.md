@@ -2,7 +2,7 @@
 track: "Unit 3"
 title: "Mern Stack"
 week: 23
-day: 2
+day: 3
 type: "lecture"
 topics: "Mern Stack"
 ---
