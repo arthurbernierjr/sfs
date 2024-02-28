@@ -10,8 +10,11 @@
 - [Testing with React & Jest](https://generalassembly.wistia.com/medias/dsw5h07cbv)
 
 ## Code for example app
+
+[![Edit arthurbernierjr/goat-cafe/main](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/arthurbernierjr/goat-cafe/main?import=true&embed=1&file=%2F.codesandbox%2Ftasks.json&showConsole=true)
+
 <iframe src="https://codesandbox.io/p/github/arthurbernierjr/goat-cafe/main?import=true&embed=1&file=%2Fconfig%2Fseed.js"
-     style="width:100%; height: 500px; border:0; border-radius: 4px; overflow:hidden;"
+     style="width:100%; height: 900px; border:0; border-radius: 4px; overflow:hidden;"
      title="arthurbernierjr/goat-cafe/main"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
