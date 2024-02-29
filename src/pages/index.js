@@ -61,6 +61,11 @@ export default function Mod1 ({ data, location }) {
             </center>
             <main className={styles.main}>
             <LectureCard
+                slug={'/cheatsheets'}
+                title={'Cheatsheet'}
+                topics={'Cheatsheet for all units'}
+              />
+            <LectureCard
                 slug={'/hw'}
                 title={'Homework Links'}
                 topics={'Homework for all units'}
