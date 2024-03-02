@@ -16,4 +16,4 @@ topics: "Project"
 
 # Resources
 - [Project 3](/unit-3/week-20/day-3/project-3)
-- [Project 3 Videos from General Assembly](/unit3/week-24/day-3/videos)
+- [Project 3 Videos from General Assembly](/unit3/week-24/day-3/slides)
