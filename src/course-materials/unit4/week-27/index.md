@@ -9,7 +9,7 @@ topics: "Project"
 
 
 # Resources
-- [System Design Primer](/unit-4/week-27/system-design-primer)
+- [System Design Primer](/unit4/week-27/system-design-primer)
 - [Polyglot](/polyglot)
-- [Passion Project Primer](/unit-4/week-27/slides)
+- [Passion Project Primer](/unit4/week-27/slides)
 - ***Josh presenting Vite***
