@@ -4,10 +4,10 @@ title: "Week 27 - Day 2"
 week: 27
 day: 2
 type: "homepage"
-topics: "Capstone Kickoff"
+topics: "Passion Project Kickoff"
 ---
 
-# Capstone
+# Passion Project
 
 So far in the course you have learned many things, and have been told what to make, for you final deliverable, you are charged with looking into the future and planning the execution.
 

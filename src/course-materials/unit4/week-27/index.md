@@ -1,6 +1,6 @@
 ---
 track: "Unit 4"
-title: "Week 27 - Day 3"
+title: "Final Lap"
 week: 27
 day: 1
 type: "homepage"
