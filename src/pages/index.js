@@ -75,6 +75,11 @@ export default function Mod1 ({ data, location }) {
                 title={'Core Concept Review'}
                 topics={'Core Concept Review of The Web, HTML, CSS & JS'}
               />
+              <LectureCard
+                slug={'/polyglot'}
+                title={'Learning Different Languages'}
+                topics={'Core Details of Learning New Languages'}
+              />
               {lessons}
             </main>
         </Layout>
