@@ -74,7 +74,7 @@ topics: "HTML, CSS, JavaScript, Introduction to AI Prompts"
 - [Eloquent JavaScript Chapter 1: Values, Types, and Operators](https://eloquentjavascript.net/01_values.html)
 - [You Don’t Know JS: Scope and Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch1.md)
 
----
+
 
 
 
