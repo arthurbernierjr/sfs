@@ -10,10 +10,10 @@
   "scripts": {
     "dev": "NODE_ENV=development gatsby clean && npm run develop",
     "build": "gatsby build",
-    "develop": "PORT=8097 gatsby develop",
+    "develop": "PORT=8098 gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
-    "serve": "gatsby serve -p 8097",
+    "serve": "gatsby serve -p 8098",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
     "push": "git add -A  && git reg && git push origin main",
