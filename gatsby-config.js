@@ -11,19 +11,17 @@ module.exports = {
     keywords: 'software engineer, software engineering, coding, javascript, html, css',
     navigationLinks: [
       { title: 'Home', slug: '/' },
-      { title: 'Course Details', slug: '/course-details' },
-      { title: 'Project Submissions', slug: '/projects' },
     ],
     homeworkSubmissionLink: {
-      title: 'Submit Homework',
+      title: '',
       href: '#'
     },
     homeworkSubmissionLinktwo: {
-      title: 'See Class Schedule & Assigned Homework Links',
+      title: '',
       href: '#'
     },
     exitTicketLink: {
-      title: 'Submit Exit Ticket',
+      title: '',
       href: '#'
     }
   },
