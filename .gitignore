@@ -71,5 +71,6 @@ yarn-error.log
 .yarn-integrity
 
 locked-materials/SEIR-Course-Materials
+locked-materials/gatsby
 locked-materials/feedback/*
 locked-materials/student-feedback

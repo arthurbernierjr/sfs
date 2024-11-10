@@ -4,10 +4,10 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: 'Welcome to SEIR Flex',
+    title: 'Welcome to your curriculum',
     author: 'Arthur Bernier Jr',
     currentYear: new Date().getFullYear(),
-    description: 'An interactive website for students currently enrolled in the General Assembly Software Engineering Immersive Remote Flex Program',
+    description: 'An interactive website for mentorship clients',
     keywords: 'software engineer, software engineering, coding, javascript, html, css',
     navigationLinks: [
       { title: 'Home', slug: '/' },
@@ -16,15 +16,15 @@ module.exports = {
     ],
     homeworkSubmissionLink: {
       title: 'Submit Homework',
-      href: 'https://forms.gle/tfN3Z2ukFTTFLoVm7'
+      href: '#'
     },
     homeworkSubmissionLinktwo: {
       title: 'See Class Schedule & Assigned Homework Links',
-      href: 'https://docs.google.com/spreadsheets/d/1QaqwE3QXHiRQJmYGWH3NfJee6RDvNTFjCnzcC3JXOwM/edit?pli=1#gid=874083252'
+      href: '#'
     },
     exitTicketLink: {
       title: 'Submit Exit Ticket',
-      href: 'https://forms.gle/iHoouYevM4yyyZXh6'
+      href: '#'
     }
   },
   plugins: [
