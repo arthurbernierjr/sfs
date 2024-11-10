@@ -64,7 +64,7 @@ topics: "HTML, CSS, JavaScript, Introduction to AI Prompts"
 
 ### **Lesson Materials**
 - [**Self-Guided Lesson:** Introduction to AI Prompting](/unit1/week-1/lesson-materials/intro-to-prompts/)
-- [**Activity:** Prompt Refinement](/unit1/week-1/activities/prompt-refinement/)
+- [**Activity:** Prompt Refinement](/unit1/week-1/practice/prompt-refinement/)
 
 **Text 404-962-0908 with feedback and questions.**
 
