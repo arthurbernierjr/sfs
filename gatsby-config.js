@@ -112,12 +112,12 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'General Assembly - SEIR Flex Course Site',
-        short_name: 'GA',
+        name: 'Svetlana Website for Mentorship',
+        short_name: 'SV',
         description: 'Our Student-Facing website expressed as a progressive web app!',
         lang: 'en',
         display: 'standalone',
-        icon: 'static/ga-logo.svg',
+        icon: 'static/logo.png',
         start_url: '/',
         background_color: '#222222',
         theme_color: '#dc143c'
