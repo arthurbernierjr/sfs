@@ -1,0 +1,10 @@
+## Week 5 Readings/Videos to Prepare for Week 5 and beyond
+1. [Eloquent JavaScript Intro](https://eloquentjavascript.net/00_intro.html)
+2. [You Don't Know JS Intro](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md)
+3. [Eloquent JavaScript Values and Types ](https://eloquentjavascript.net/01_values.html)
+4. [Eloquent JavaScript Program Structure](https://eloquentjavascript.net/02_program_structure.html)
+5. [YDKJS Scope Surveying JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md)
+6. [Kiss Principle](https://youtu.be/_mSi8e8y8w0?si=iN416CrL2WDMT3ls)
+7. [Occams Razor](https://youtu.be/OY1B-2f1uSE?si=wHcLsTEvdrAiz4T1)
+8. [Yagni Principle](https://youtu.be/aqKjjgUDIUo?si=TBan8ogV0ErUU0z8)
+9. [Worse is Better Principle](https://youtu.be/q1RWhj_0MP8?si=j_dGE-xfCRybEMwh)
