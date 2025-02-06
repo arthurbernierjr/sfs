@@ -20,7 +20,7 @@ topics: "HTML, CSS, JavaScript, DOM Manipulation, API Integration, Flexbox, Grid
 | 7:15 - 8:15 pm | **Hands-On Activity**: Navigating Directories and Files |  
 
 ### **Lesson Materials**  
-- [**Self-Guided Lesson:** Command Line Basics](/unit-1/week-3/0)  
+- [**Self-Guided Lesson:** Command Line Basics](/unit1/week-3/0)  
 
 ---
 
@@ -33,7 +33,7 @@ topics: "HTML, CSS, JavaScript, DOM Manipulation, API Integration, Flexbox, Grid
 | 9:45 - 10:30 pm | **Reflection Activity**: How These Technologies Work Together |  
 
 ### **Lesson Materials**  
-- [**Self-Guided Lesson:** Unit Overview](/unit-1/week-3/1/) 
+- [**Self-Guided Lesson:** Unit Overview](/unit1/week-3/1/) 
 
 ---
 
@@ -49,7 +49,7 @@ topics: "HTML, CSS, JavaScript, DOM Manipulation, API Integration, Flexbox, Grid
 | 9:45 - 10:30 pm | **Practice**: Applying CSS to HTML Elements |  
 
 ### **Lesson Materials**  
-- [**Self-Guided Lesson:** Introduction to HTML & CSS](/unit-1/week-3/2/)  
+- [**Self-Guided Lesson:** Introduction to HTML & CSS](/unit1/week-3/2/)  
 
 ---
 
@@ -65,7 +65,7 @@ topics: "HTML, CSS, JavaScript, DOM Manipulation, API Integration, Flexbox, Grid
 | 9:45 - 10:30 pm | **Practice**: Enhancing with Advanced CSS |  
 
 ### **Lesson Materials**  
-- [**Self-Guided Lesson:** Building a Resume Page](/unit-1/week-3/3/)  
+- [**Self-Guided Lesson:** Building a Resume Page](/unit1/week-3/3/)  
 
 ---
 
@@ -81,7 +81,7 @@ topics: "HTML, CSS, JavaScript, DOM Manipulation, API Integration, Flexbox, Grid
 | 9:45 - 10:30 pm | **Practice**: Using Event Listeners to Modify HTML |  
 
 ### **Lesson Materials**  
-- [**Self-Guided Lesson:** JavaScript Event-Driven Architecture](/unit-1/week-3/4/)  
+- [**Self-Guided Lesson:** JavaScript Event-Driven Architecture](/unit1/week-3/4/)  
 
 ---
 
@@ -97,8 +97,8 @@ topics: "HTML, CSS, JavaScript, DOM Manipulation, API Integration, Flexbox, Grid
 | 9:45 - 10:30 pm | **Practice**: Adding UI Enhancements |  
 
 ### **Lesson Materials**  
-- [**Self-Guided Lesson:** Fetching Data from an API](/unit-1/week-3/5/)  
-- [**Self-Guided Lesson:** Dynamically Displaying Data](/unit-1/week-3/5/)  
+- [**Self-Guided Lesson:** Fetching Data from an API](/unit1/week-3/5/)  
+- [**Self-Guided Lesson:** Dynamically Displaying Data](/unit1/week-3/5/)  
 
 ---
 
@@ -114,8 +114,8 @@ topics: "HTML, CSS, JavaScript, DOM Manipulation, API Integration, Flexbox, Grid
 | 9:45 - 10:30 pm | **Practice**: Combining Flexbox & Grid |  
 
 ### **Lesson Materials**  
-- [**Self-Guided Lesson:** Flexbox Basics](/unit-1/week-3/6/)  
-- [**Self-Guided Lesson:** CSS Grid Overview](/unit-1/week-3/6/)  
+- [**Self-Guided Lesson:** Flexbox Basics](/unit1/week-3/6/)  
+- [**Self-Guided Lesson:** CSS Grid Overview](/unit1/week-3/6/)  
 
 ---
 
@@ -131,8 +131,8 @@ topics: "HTML, CSS, JavaScript, DOM Manipulation, API Integration, Flexbox, Grid
 | 9:45 - 10:30 pm | **Practice**: Combining Animations with Layouts |  
 
 ### **Lesson Materials**  
-- [**Self-Guided Lesson:** Keyframe Basics](/unit-1/week-3/7/)  
-- [**Self-Guided Lesson:** Applying Keyframe Animations](/unit-1/week-3/7/)  
+- [**Self-Guided Lesson:** Keyframe Basics](/unit1/week-3/7/)  
+- [**Self-Guided Lesson:** Applying Keyframe Animations](/unit1/week-3/7/)  
 
 ---
 
@@ -148,4 +148,4 @@ topics: "HTML, CSS, JavaScript, DOM Manipulation, API Integration, Flexbox, Grid
 
 # **Week 3 - Project** (Mini-Project: Brooklyn Layout)
 
-- [**Mini-Project:** Brooklyn Layout](/unit-1/week-3/day-3/mini-project)
+- [**Mini-Project:** Brooklyn Layout](/unit1/week-3/day-3/mini-project)
