@@ -148,4 +148,4 @@ topics: "HTML, CSS, JavaScript, DOM Manipulation, API Integration, Flexbox, Grid
 
 # **Week 3 - Project** (Mini-Project: Brooklyn Layout)
 
-- [**Mini-Project:** Brooklyn Layout](/unit1/week-3/day-3/mini-project)
+- [**Mini-Project:** Brooklyn Layout](/unit1/week-3/mini-project)
