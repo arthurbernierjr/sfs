@@ -8,6 +8,14 @@
 
 @import "~prismjs/plugins/line-numbers/prism-line-numbers";
 
+.underline {
+  text-decoration: underline!important;
+  color: #111010!important;
+  cursor: pointer!important;
+  &:hover {
+      color: crimson!important;
+  }
+}
 
 // special code block styles for syntax highlighting with line numbers
 .gatsby-highlight pre[class*="language-"].line-numbers {

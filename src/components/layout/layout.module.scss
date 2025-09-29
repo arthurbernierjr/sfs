@@ -11,7 +11,7 @@
     flex-grow: 1;
     a {
         text-decoration: none;
-        color: #dc143c;
+        color: #111010;
     }
     td {
         font-weight: 700;
@@ -20,7 +20,14 @@
 .bread-container {
     margin: 1rem 0 1.5rem 0;
 }
-
+.underline {
+    text-decoration: underline;
+    color: #111010;
+    cursor: pointer;
+    &:hover {
+        color: crimson;
+    }
+}
 @media (max-width: 600px) {
   html{
     min-width: 100vw;

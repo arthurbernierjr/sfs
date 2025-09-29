@@ -115,7 +115,7 @@ topics: "Flexbox and CSS Grid"
 - ![Background](/ecardly/images/background.jpg) 
 - ![Courage](/ecardly/images/ecard-courage.jpg) 
 - ![NYC Startups](/ecardly/images/ecard-nycstartups.jpg) 
-- ![Logo](/ecardly/images/logo.png) 
+- ![Logo](/ecardly/images/internxl.png) 
 - ![FB](/ecardly/images/social-icon-facebook.png) 
 - ![Pinterest](/ecardly/images/social-icon-pinterest.png) 
 - ![Twitter](/ecardly/images/social-icon-twitter.png)

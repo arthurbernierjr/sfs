@@ -7,10 +7,17 @@ module.exports = {
     title: 'Welcome to your curriculum',
     author: 'Arthur Bernier Jr',
     currentYear: new Date().getFullYear(),
-    description: 'An interactive website for mentorship clients',
-    keywords: 'software engineer, software engineering, coding, javascript, html, css',
+    description: 'An interactive website for the InternXL Innovation Challenge',
+    keywords: 'ai, innovation, challenge, internxl, vibe coding',
     navigationLinks: [
       { title: 'Home', slug: '/' },
+      { title: 'Course Details', slug: '/course-details' },
+      { title: 'Orientation', slug: '/orientation' },
+      { title: 'Session 1', slug: '/session1' },
+      { title: 'Session 2', slug: '/session2' },
+      { title: 'Session 3', slug: '/session3' },
+      { title: 'Session 4', slug: '/session4' },
+      { title: 'Session 5', slug: '/session5' }
     ],
     homeworkSubmissionLink: {
       title: '',
@@ -31,7 +38,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-scroll-indicator',
       options: {
-        color: '#dc143c',
+        color: '#d3d3d3',
         height: '4px',
         zIndex: '9999'
       }
@@ -112,15 +119,15 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Svetlana Website for Mentorship',
+        name: 'InternXL Website for Innovation Challenge',
         short_name: 'SV',
         description: 'Our Student-Facing website expressed as a progressive web app!',
         lang: 'en',
         display: 'standalone',
-        icon: 'static/logo.png',
+        icon: 'static/internxl.png',
         start_url: '/',
         background_color: '#222222',
-        theme_color: '#dc143c'
+        theme_color: '#d3d3d3'
       }
     },
     // {

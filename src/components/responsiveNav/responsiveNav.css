@@ -25,7 +25,7 @@
     grid-area: nav;
     grid-template-columns: repeat(4, auto);
     align-items: center;
-    justify-items: start;
+    justify-items: end;
   }
   .nav a {
     color: #ffffff;
@@ -61,7 +61,6 @@
     100% { opacity: 1; }
   }
 
-  @media (max-width: 1065px) {
     .nav-wrapper {
       grid-template-areas: "logo burger" "nav nav";
     }
@@ -94,7 +93,6 @@
       color: #ffffff;
       display: inline;
     }
-  }
 
   .navAnimation-enter {
     opacity: 0;

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { Link } from 'gatsby'
 import { CSSTransition } from 'react-transition-group'
 
-import logo from '../../../static/logo.png'
+import logo from '../../../static/internxl.png'
 
 import './responsiveNav.css'
 
@@ -76,7 +76,7 @@ export default function ResponsiveNav ({
         <img className='logo' src={logo} alt={title} />
       </Link>
       <CSSTransition
-        in={isSmallScreen && isNavVisible}
+        in={isNavVisible}
         timeout={350}
         classNames='navAnimation'
         unmountOnExit
@@ -85,12 +85,6 @@ export default function ResponsiveNav ({
           {links}
         </nav>
       </CSSTransition>
-      {
-        !isSmallScreen &&
-          <nav className='nav'>
-            {links}
-          </nav>
-      }
       <button onClick={toggleNav} className='burger'>
         &#9776;
       </button>

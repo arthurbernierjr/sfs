@@ -64,7 +64,7 @@ export default function Layout ({
               location={location}
               crumbLabel={crumbLabel}
               crumbStyle={{ color: '#000' }}
-              crumbActiveStyle={{ color: 'crimson' }}
+              crumbActiveStyle={{ color: '#101010' }}
             />
           </div>
           {children}
